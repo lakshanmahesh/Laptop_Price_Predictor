@@ -29,9 +29,11 @@ Key Features:
 
 Technologies Used:
 
-1)Python for data analysis and modeling
-2)pandas, NumPy for data manipulation
-3)scikit-learn for machine learning and GridSearchCV
+1)Python for data analysis and modeling 
+
+2)pandas, NumPy for data manipulation 
+
+3)scikit-learn for machine learning and GridSearchCV 
 
 ✅ Summary:
 
