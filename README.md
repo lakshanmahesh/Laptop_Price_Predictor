@@ -15,7 +15,7 @@ Key Features:
 	* DecisionTreeRegressor() --> 0.7173947653627537
 	* RandomForestRegressor() --> 0.8048943406880643 ✅ Best Model
      
-     Among the models tested, Random Forest Regressor achieved the highest accuracy (R² = 0.805), making it the   most reliable model for predicting laptop prices.
+     Among the models tested, Random Forest Regressor achieved the highest accuracy (0.805), making it the   most reliable model for predicting laptop prices.
 	
 4) Random Forest identified as the best-performing model with highest accuracy
 5) Model saved using Pickle for easy deployment and prediction (predictor.pickle)
