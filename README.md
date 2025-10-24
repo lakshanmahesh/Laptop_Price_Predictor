@@ -35,6 +35,8 @@ Technologies Used:
 
 3)scikit-learn for machine learning and GridSearchCV 
 
+4)Flask → Web interface for predictions
+
 ✅ Summary:
 
 Python → main programming language
